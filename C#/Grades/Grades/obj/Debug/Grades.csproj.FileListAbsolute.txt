@@ -4,3 +4,9 @@ D:\zNURIA\AutoFormacion\C#\Grades\Grades\obj\Debug\Grades.pdb
 D:\zNURIA\AutoFormacion\C#\Grades\Grades\bin\Debug\Grades.exe.config
 D:\zNURIA\AutoFormacion\C#\Grades\Grades\bin\Debug\Grades.exe
 D:\zNURIA\AutoFormacion\C#\Grades\Grades\obj\Debug\Grades.exe
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\bin\Debug\Grades.exe.config
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\bin\Debug\Grades.exe
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\bin\Debug\Grades.pdb
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\obj\Debug\Grades.exe
+D:\zNURIA\AutoFormacion\Training\C#\Grades\Grades\obj\Debug\Grades.pdb
