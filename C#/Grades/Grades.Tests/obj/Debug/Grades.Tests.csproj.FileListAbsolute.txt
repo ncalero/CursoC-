@@ -1,0 +1,15 @@
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Grades.exe
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Grades.pdb
+D:\zNURIA\AutoFormacion\C#\Grades\Grades.Tests\bin\Debug\Grades.exe.config
